@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\38068\source\repos\Project8\Project8\Source.cpp(87,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\38068\source\repos\Project8\Project8\Source.cpp(18): warning C4715: 'rand': not all control paths return a value
+  Project8.vcxproj -> C:\Users\38068\source\repos\Project8\x64\Debug\Project8.exe
